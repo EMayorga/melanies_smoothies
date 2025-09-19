@@ -1,4 +1,0 @@
-# requeriments.txt
-snowflake
-snowflake-snowpark-python
-streamlit
